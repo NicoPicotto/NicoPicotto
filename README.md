@@ -6,11 +6,15 @@
 
 <h2>⚒️ Trabajo con las siguientes herramientas</h2>
 
-* Adobe Suite (Illustrator, Photoshop, Adobe XD)
-* HTML5
-* CSS3
+* Adobe Suite (Illustrator, Photoshop, Adobe XD +)
+* HTML
+* CSS
 * JavaScript
 * ReactJs
+
+<h2>🤓 Estoy aprendiendo</h2>
+* React Native
+* Sketch
 
 <h2>📍 Podés encontrarme en los siguientes links</h2>
 
