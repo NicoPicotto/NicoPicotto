@@ -19,7 +19,7 @@
 
 <h2>📍 Podés encontrarme en los siguientes links</h2>
 
- * [Linkedin](https://github.com/NicoPicotto)
+ * [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nicolaspicotto/)  
  * [Behance](https://www.behance.net/nicolaspicotto)
  * [Instagram](https://www.instagram.com/npicotto)
 
