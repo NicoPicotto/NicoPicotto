@@ -27,4 +27,4 @@
 :star: Gracias por visitar :nerd_face:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicopicotto&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicopicotto&layout=compact&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicopicotto&langs_count=8&theme=dark)
