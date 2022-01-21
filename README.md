@@ -19,6 +19,9 @@
 
 <h2>📍 Podés encontrarme en los siguientes links</h2>
 
+ *  <a href="https://www.linkedin.com/in/nicopicotto/">
+      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
  * [Behance](https://www.behance.net/nicolaspicotto)
  * [Linkedin](https://www.linkedin.com/in/nicolaspicotto/)
  * [Instagram](https://www.instagram.com/npicotto)
