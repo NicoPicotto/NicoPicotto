@@ -23,8 +23,7 @@
  * [Behance](https://www.behance.net/nicolaspicotto)
  * [Instagram](https://www.instagram.com/npicotto)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicopicotto&show_icons=true&theme=dark)
+
 ---
 :star: Gracias por visitar :nerd_face:
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicopicotto&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicopicotto&langs_count=8&theme=dark)
