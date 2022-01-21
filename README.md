@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" />
  </a>
   <a href="https://www.instagram.com/npicotto">
-    <img src="https://img.shields.io/badge/<Instagram>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
  </a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicopicotto&show_icons=true&theme=dark)
