@@ -26,4 +26,4 @@
 ---
 :star: Gracias por visitar :nerd_face:
 
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username={NicoPicotto})
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
