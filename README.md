@@ -26,4 +26,4 @@
 ---
 :star: Gracias por visitar :nerd_face:
 
-![image](https://github-readme-stats.vercel.app/api?username={NicoPicotto})
+![image](https://github-readme-stats.vercel.app/api?username={nicopicotto})
