@@ -19,7 +19,7 @@
 
 <h2>📍 Podés encontrarme en los siguientes links</h2>
 
- * <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> [Linkedin](https://github.com/NicoPicotto)
+ * <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />(https://github.com/NicoPicotto)
  * [Behance](https://www.behance.net/nicolaspicotto)
  * [Instagram](https://www.instagram.com/npicotto)
 
