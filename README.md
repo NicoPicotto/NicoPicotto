@@ -26,4 +26,4 @@
 ---
 :star: Gracias por visitar :nerd_face:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicopicotto&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicopicotto&show_icons=true&theme=dark)
