@@ -24,8 +24,8 @@
 
 <h2>🤓 Estoy aprendiendo</h2>
 
-* React Native
-* Sketch
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)
 
 <h2>📍 Podés encontrarme en los siguientes links</h2>
 
