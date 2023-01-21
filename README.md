@@ -35,6 +35,6 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicoPicotto&layout=compact&hide=html&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicoPicotto&layout=compact&hide=html&theme=tokyonight)](https://nicopicotto.com/)
 
 :star: Gracias por visitar :nerd_face:
