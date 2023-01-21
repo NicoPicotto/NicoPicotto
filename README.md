@@ -34,4 +34,7 @@
  <a href="https://www.instagram.com/npicotto"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
 
 ---
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=NicoPicotto&hide=html
+
 :star: Gracias por visitar :nerd_face:
