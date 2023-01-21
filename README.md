@@ -35,8 +35,6 @@
 
 ---
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NicoPicotto&repo=Blog-Nico)](https://github.com/NicoPicotto/Blog-Nico)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicoPicotto&layout=compact&hide=html&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 :star: Gracias por visitar :nerd_face:
