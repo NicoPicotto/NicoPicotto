@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Nico</h1>
 <h3 align="left">A passionate frontend developer from Argentina 🇦🇷</h3>
 
-- 🔭 Find me in [My Website](https://nicopicotto.dev/)
+- 🔭 Find me in [here](https://nicopicotto.dev/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
